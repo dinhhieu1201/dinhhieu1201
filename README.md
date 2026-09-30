@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dinhhieu1201/dinhhieu1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in **Finance and Accounting** at the **Prague University of Economics and Business (VŠE)**.
 
-Here are some ideas to get you started:
+My interests lie at the intersection of **mathematics, statistics, programming, and financial markets**, with a long-term goal of pursuing a career in **Quantitative Research**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Interests
+
+- Quantitative Finance
+- Financial Econometrics
+- Asset Pricing
+- Time Series Analysis
+- Statistical Modeling
+- Machine Learning
+- Risk Modeling
+
+### 💻 Currently Learning
+
+- Python for quantitative finance
+- SQL for financial data analysis
+- Statistics & Econometrics
+- Machine Learning
+- Time Series Analysis
+- Financial Mathematics
+
+### 🛠️ Tools & Technologies
+
+**Programming & Data**
+- Python
+- SQL
+- NumPy
+- pandas
+- scikit-learn
+- statsmodels
+
+**Other**
+- Excel
+- Git & GitHub
+
+### 🎯 Goal
+
+> Building a strong foundation in mathematics, statistics, programming, and finance to conduct rigorous quantitative research on financial markets.
+
+---
+
+📌 **Currently building:** quantitative finance & financial data analysis projects.
